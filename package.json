@@ -1,0 +1,18 @@
+{
+  "name": "qw23-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ลอตเตอรี่ออนไลน์ดอทคอม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ลอตเตอรี่ออนไลน์ดอทคอม",
+"แอพหวยออนไลน์",
+"หวยยี่กี lottovip ล่าสุด",
+"หวยแทง24",
+"ดูสดหวยรัฐบาล"
+],
+  "repository": "https://github.com/setteebet/qw23-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
